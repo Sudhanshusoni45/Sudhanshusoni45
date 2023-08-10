@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sudhanshusoni__" target="blank"><img src="https://img.shields.io/twitter/follow/sudhanshusoni__?logo=twitter&style=for-the-badge" alt="sudhanshusoni__" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I am Experienced **react** Developer
 
 - 💬 Ask me about **react,javascript,css**
 
