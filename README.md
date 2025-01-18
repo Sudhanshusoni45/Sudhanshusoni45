@@ -4,4 +4,4 @@ Popular Projects:
 
 Currently Working with [orbsway](https://app.orbsway.com) to revamp and develop their suit of products.
 
-Know more about me [here](https://sudhanshusoni.tech).
+Know more about me [here](https://sudhanshusoni.co).
