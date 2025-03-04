@@ -1,1 +1,1 @@
-Crafting Products @[Radical Labs](https://radicallabs.io)
+Crafting Web Experiences @[Radical Labs](https://radicallabs.io)
